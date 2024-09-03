@@ -26,8 +26,3 @@ Este repositório contém os arquivos de código Python utilizados para coletar 
 **manipula_dados.py:** Este arquivo contém funções para manipular os dados coletados, como:
 * Limpar e organizar os dados.
 * Salvar os dados em arquivos CSV.
-
-
-## Instanciando.py
-O arquivo instanciando.py demonstra como utilizar a classe DadosRepositorios para coletar dados de diferentes empresas. Ele instancia a classe para cada empresa, coleta os dados e salva os resultados em arquivos CSV.
-                
