@@ -13,10 +13,10 @@ O repositório é composto por quatro arquivos CSV:
 
 
 
-#Repositório de Dados de Repositórios do GitHub (ARQUIVOS .PY)
+# Repositório de Dados de Repositórios do GitHub (ARQUIVOS .PY)
 Este repositório contém os arquivos de código Python utilizados para coletar dados sobre as linguagens de programação mais utilizadas em repositórios de empresas no GitHub.
 
-##Estrutura
+## Estrutura
 dados_repos.py: Este arquivo contém a classe DadosRepositorios, responsável por:
 
 Obter informações sobre os repositórios de um usuário do GitHub.
@@ -34,7 +34,7 @@ Salvar os dados em arquivos CSV.
 
 
 
-##Instanciando.py
+## Instanciando.py
 O arquivo instanciando.py demonstra como utilizar a classe DadosRepositorios para coletar dados de diferentes empresas. Ele instancia a classe para cada empresa, coleta os dados e salva os resultados em arquivos CSV.
 '''
 from dados_repos import DadosRepositorios
